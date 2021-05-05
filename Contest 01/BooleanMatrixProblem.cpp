@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Including Rows and Columns of Matrix
 #define R 5
 #define C 4
 
@@ -13,7 +14,8 @@ int main(){
 				{ 0, 0, 0, 0 },
 				{ 0, 0, 0, 1 }
 			};
-
+	
+	// Printing the Initial Matrix.
 	cout<< "\nInitial Matrix  : "<< endl;
 	for(int i = 0; i < R; i++){
 		for(int j = 0; j < C; j++){
@@ -21,7 +23,8 @@ int main(){
 		}
 		cout<< endl;
 	}
-
+	
+	// Manipulating the Matrix.
 	for(int i = 0; i < R; i++){
 		for(int j = 0; j < C; j++){
 			if(arr[i][j]){
@@ -31,7 +34,8 @@ int main(){
 			}
 		}	
 	}
-
+	
+	// Printing Matrix after manipulation.
 	cout<< "\nChanged Matrix  : "<< endl;
 	for(int i = 0; i < R; i++){
 		for(int j = 0; j < C; j++){
