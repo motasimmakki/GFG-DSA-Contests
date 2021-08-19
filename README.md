@@ -58,7 +58,7 @@ Time Complexity: O(len(s)), where 's' denoted the string. </br>▪▫Visit: <a h
   </li><br>
   
   <li>
-    Contest 03: Matrix
+    Contest 03: Deque
     <ol>
       <li>
         Minimum At Pop
