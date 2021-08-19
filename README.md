@@ -55,6 +55,28 @@ Time Complexity: O(len(s) * len(p))
 Time Complexity: O(len(s)), where 's' denoted the string. </br>▪▫Visit: <a href = "https://github.com/motasimmakki/GFG-DSA-Contests/blob/main/Contest%2002/AvgOfString.cpp">Click here</a></p>
       </li>
     </ol>
+  </li><br>
+  
+  <li>
+    Contest 03: Matrix
+    <ol>
+      <li>
+        Minimum At Pop
+        <p>In this problem, we have to change the property of the Stack such that whenever the 'pop()' function is called, the minimum element from the stack is popped out.
+</br>. </br>
+Time Complexity: O(n) </br>Auxiliary Space: O(n) </br>▪▫Visit: <a href = "https://github.com/motasimmakki/GFG-DSA-Contests/blob/main/Contest%2003/minimum_at_pop.cpp">Click here</a></p>
+      </li><br>
+      <li>
+        Pairing the brackets
+        <p>In this problem, we have been given a string containing the opening and the closing parenthesis, and we have to pair the leftmost opening parenthesis with the rightmost closing parenthesis, and then print their indices.
+</br>. </br>
+Time Complexity: O(n*n) </br>Auxiliary Space: O(n) </br>▪▫Visit: <a href = "https://github.com/motasimmakki/GFG-DSA-Contests/blob/main/Contest%2003/pairing_the_brackets.cpp">Click here</a></p>
+      </li><br>
+      <li>
+        Closest friends!
+        <p>(Yet to upload)</p>
+      </li>
+    </ol>
   </li>
 </ul>
 
